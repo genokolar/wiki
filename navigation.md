@@ -1,9 +1,9 @@
 # Lotkb Wiki
 
-[首页](index.md)
+[Home](index.md)
 
 [gimmick:theme (inverse: false)](spacelab)
 
-[gimmick:ThemeChooser](选择主题)
+[gimmick:ThemeChooser](Change theme)
 
 [gimmick:forkmeongithub](http://github.com/genokolar/)
